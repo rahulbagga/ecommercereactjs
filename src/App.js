@@ -13,13 +13,13 @@ function App() {
         <Home />        
       </Route>
       
-      <Route path='/contact'>
+      <Route path='/contact/'>
         <Contact />        
       </Route>
-      <Route path='/products'>
+      <Route path='/products/'>
         <ProductsScreen />        
       </Route>
-      <Route path='/checkout'>
+      <Route path='/checkout/'>
         <CheckoutScreen />        
       </Route>
       
